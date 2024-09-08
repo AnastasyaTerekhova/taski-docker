@@ -27,3 +27,6 @@ services:
       - static:/staticfiles/
     ports:
       - 8000:80
+
+
+
